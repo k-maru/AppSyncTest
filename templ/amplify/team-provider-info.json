@@ -1,0 +1,14 @@
+{
+    "local": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-templ-local-185203-authRole",
+            "UnauthRoleArn": "arn:aws:iam::895642957333:role/amplify-templ-local-185203-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::895642957333:role/amplify-templ-local-185203-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-templ-local-185203-deployment",
+            "UnauthRoleName": "amplify-templ-local-185203-unauthRole",
+            "StackName": "amplify-templ-local-185203",
+            "StackId": "arn:aws:cloudformation:us-east-1:895642957333:stack/amplify-templ-local-185203/127364d0-0ea0-11ea-adc9-0ed2247e0ea9"
+        }
+    }
+}
